@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1583543458 source:d:\banker algorithm\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+
